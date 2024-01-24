@@ -1,5 +1,5 @@
 """
-This is a minimal file intended to be run by users to help them manage the autogpt projects.
+This is a minimal file intended to be run by users to help them manage the gpt projects.
 
 If you want to contribute, please use only libraries that come as part of Python.
 To ensure efficiency, add the imports to the functions so only what is needed is imported.
